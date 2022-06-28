@@ -1,0 +1,40 @@
+body {
+  width: 1410px;
+  height: 295px;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-bottom: 69px;
+}
+
+table, th, td {
+  border: 1px solid rgb(204, 165, 235);
+  border-collapse: collapse;
+  size: 108px;
+  margin: 148px 22px 23px 271px;
+  width: 470px;
+  height: 61px;
+}
+
+select{
+  width: 202px;height: 43px;
+}
+
+.myselect {
+  margin: -12px 6px -13px 144px;
+}
+
+.remove {
+  background-color: rgb(253, 2, 2);
+  cursor: pointer;
+  margin: -20px -13px -28px 223px;
+  height: 36px;
+  width: 52px;
+}
+
+.addbutton {
+  background-color: rgb(253, 253, 253);
+  cursor: pointer;
+  width: 218px;
+  height: 35px;
+  margin: -12px -18px -211px 269px;
+}
